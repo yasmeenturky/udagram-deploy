@@ -64,8 +64,4 @@ jobs:
           command: | 
                 frontend:deploy
             
-workflows:
-  udagram:
-    jobs:
-      - build
-      - deploy
+
