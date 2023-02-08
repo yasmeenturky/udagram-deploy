@@ -13,4 +13,4 @@
 
 ## Architecture
 
-[Arcitecture](https://github.com/yasmeenturky/udagram-deploy/blob/master/documentation/Architecture.png)
+![Arcitecture](https://github.com/yasmeenturky/udagram-deploy/blob/master/documentation/Architecture.png)

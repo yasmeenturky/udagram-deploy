@@ -9,5 +9,4 @@
 5. Deploy Backend on elastic beanstalk
 
 ## Pipline Diagram
-
-(https://github.com/yasmeenturky/udagram-deploy/blob/master/documentation/Pipeline.png)
+[Pipeline]:https://github.com/yasmeenturky/udagram-deploy/blob/master/documentation/Pipeline.png
