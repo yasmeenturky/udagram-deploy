@@ -10,3 +10,7 @@
 
  # S3
   AWS S3 is used for frontend static web hosting
+
+## Architecture
+
+[Arcitecture](https://github.com/yasmeenturky/udagram-deploy/blob/master/documentation/Architecture.png)

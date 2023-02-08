@@ -7,3 +7,7 @@
 3. Frontend lint
 4. Build Frontend and Backend
 5. Deploy Backend on elastic beanstalk
+
+## Pipline Diagram
+
+[Pipline](https://github.com/yasmeenturky/udagram-deploy/blob/master/documentation/Pipeline.png)
