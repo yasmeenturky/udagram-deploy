@@ -10,4 +10,4 @@
 
 ## Pipline Diagram
 
-[Pipline](https://github.com/yasmeenturky/udagram-deploy/blob/master/documentation/Pipeline.png)
+(https://github.com/yasmeenturky/udagram-deploy/blob/master/documentation/Pipeline.png)
