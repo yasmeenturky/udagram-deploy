@@ -2,13 +2,13 @@
 ---
 ## AWS Resources
 
-# RDS 
+### RDS 
  Application server uses AWS RDS publicly accessible PostgresSQL database to store and retieve data.
 
-# Elastic Beanstalk
+### Elastic Beanstalk
  EB hosts backend APIs
 
- # S3
+### S3
   AWS S3 is used for frontend static web hosting
 
 ## Architecture
